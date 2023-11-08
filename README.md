@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-#### Solutions Architect @ Dakai Group
+#### currently unemployed
 since 2023
 
 Work experience
+* Former member of Dakai Group's Architecture Hub 2023-2023 (Solutions Architect)
 * Former member of Betsson Group's CORE Framework team 2022-2023 (Senior Frontend Engineer)
 * Former member of Betsson Group's Customer Care & Onboarding Los Piratos team 2021-2022 (Senior Frontend Engineer & Acting Tech Lead)
 * Former member of SenseNet's CODEFIRST team 2020-2021 (Senior Frontend Developer & Team Lead)
