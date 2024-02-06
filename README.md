@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CSat&card_width=876)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=876)](https://git.io/streak-stats)
 
 Work experience
 * Member of Dakai Group's Architecture Hub 2023-current (Solutions Architect)
