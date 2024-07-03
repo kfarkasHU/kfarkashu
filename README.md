@@ -3,6 +3,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=876)](https://git.io/streak-stats)
 
 Work experience
+* Member of * 2024-current (Chapter Lead)
 * Former member of Dakai Group's Architecture Hub 2023-2024 (Solutions Architect)
 * Former member of Betsson Group's CORE Framework team 2022-2023 (Senior Frontend Engineer)
 * Former member of Betsson Group's Customer Care & Onboarding Los Piratos team 2021-2022 (Senior Frontend Engineer & Acting Tech Lead)
