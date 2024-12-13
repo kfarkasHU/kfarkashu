@@ -1,6 +1,6 @@
 ## Pozzzzzzzzz 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=876)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=876)](https://streak-stats.demolab.com?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=876)
 
 Work experience
 * Member of OTP Bank's Omichannel Tribe - Web Application Development Chapter 2024-current (Chapter Lead I)
