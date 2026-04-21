@@ -3,7 +3,8 @@
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app/?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=876)](https://github-readme-streak-stats-vijaypur.vercel.app/?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=876)
 
 Work experience
-* Member of OTP Bank's Omichannel Tribe - Web Application Development Chapter 2024-current (Chapter Lead I)
+* Member of OTP Bank's Omichannel Tribe - Front-end Chapter 2026-current (Chapter Lead I)
+* Former member of OTP Bank's Omichannel Tribe - Web Application Development Chapter 2024-2026 (Chapter Lead I)
 * Former member of Dakai Group's Architecture Hub 2023-2024 (Solutions Architect)
 * Former member of Betsson Group's CORE Framework team 2022-2023 (Senior Frontend Engineer)
 * Former member of Betsson Group's Customer Care & Onboarding Los Piratos team 2021-2022 (Senior Frontend Engineer & Acting Tech Lead)
