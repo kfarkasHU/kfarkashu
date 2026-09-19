@@ -1,6 +1,6 @@
 ## Pozzzzzzzzz 👋
 
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app/?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=876)](https://github-readme-streak-stats-vijaypur.vercel.app/?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=876)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=876)](https://github-readme-streak-stats.herokuapp.com/?user=kfarkasHU&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=876)
 
 Work experience
 * Member of OTP Bank's Omichannel Tribe - Front-end Chapter 2026-current (Chapter Lead I)
